@@ -1,4 +1,4 @@
-Take input from user
+Take input from user by using gets.chomp 
 if input is empty(""), say "HELLO?"
 if any letters in input are lowercase, say "I AM HAVING A HARD TIME HEARING YOU."
   probably use something where i can put a range of all lower case letters ex: [a-z]
